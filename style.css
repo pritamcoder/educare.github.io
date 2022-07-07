@@ -104,6 +104,7 @@ header .headtext{
     display: flex;
     align-items: center;
     justify-content: space-around;
+    cursor: pointer;
 }
  button i{
     font-size: 20px;
@@ -168,6 +169,7 @@ header .headtext{
     display: flex;
     align-items: center;
     justify-content: space-around;
+    cursor: pointer;
 }
 .faq{
     padding: 22px;
